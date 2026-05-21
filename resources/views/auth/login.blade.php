@@ -100,6 +100,11 @@
       .login-form-side { width: 100%; padding: 32px 24px; }
     }
   </style>
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#4f46e5">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="JEC">
+  <link rel="apple-touch-icon" href="/icons/icon-192.png">
 </head>
 <body>
   <div class="login-photo">
